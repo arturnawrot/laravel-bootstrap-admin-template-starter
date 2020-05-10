@@ -26,6 +26,7 @@
         "datatables.net-bs4": "1.10.20",
         "gulp": "^4.0.2",
         "jquery": "3.4.1",
-        "jquery.easing": "^1.4.1"
+        "jquery.easing": "^1.4.1",
+        "vue": "^2.6.11"
     }
 }

@@ -1,3 +1,5 @@
+@title('Dashboard')
+
 @extends('layouts.base')
 
 @section('main')
